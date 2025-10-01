@@ -6,7 +6,6 @@
 
 📫 Me encontre em:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaue-luiz-de-borba/?trk=opento_sprofile_pfeditor)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=github&logoColor=white)](https://seusite.com)
 
 ## 🚀 Tecnologias que uso
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
