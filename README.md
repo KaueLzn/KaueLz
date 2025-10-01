@@ -17,6 +17,5 @@
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=KaueLzn&show_icons=true&theme=radical)
 
 ## 🧠 Em aprendizado:
-- GraphQL
 - Docker
 - CI/CD com GitHub Actions
