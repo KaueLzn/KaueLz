@@ -1,4 +1,4 @@
-# Olá, eu sou Kauê Luiz de Borba 👋
+# Olá mundo, eu sou Kauê Luiz de Borba 👋
 
 🎯 Desenvolvedor(a) Full Stack apaixonado(a) por resolver problemas com código.
 
